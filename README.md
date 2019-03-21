@@ -7,7 +7,7 @@ This work combine control-flow and data perspectives under a single roof by exte
 1. Anaconda 3.
 2. INtelliJ https://www.jetbrains.com/idea/download/#section=windows.
 
-### Installing the EDU-ProM library:
+### Installing the *EDU-ProM* library:
 
 In order to use the inductive miner from our phyton project it is required to use the EDU-ProM library.
 The usaged with the library is applyed by the 'MyScript.bat' script file that is been called from the
@@ -32,14 +32,14 @@ It is required to update the 'MyScript.bat' file with the currect jar files path
 
 6. Run the 'MyScript.bat' from the command line in order to verify it is working. 
 
-### Installing the pm4py library:
+### Installing the *pm4py* library:
 
 In order to use the inductive miner from our phyton project it is required to use the pm4py library.
 
 1.Install the library from http://pm4py.org/ 
   (Use the 'iductive-data-aware-process-discovery' folder as installation directory).
   
-### Installing the fusion_miner project:
+### Installing the *iductive-data-aware-process-discovery* project:
 
 1. Open the PyCharm.
 
